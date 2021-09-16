@@ -1,8 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HiroshimaMC/CustomThings
-build-by-default: true
-branches:
-- PM-4.0
-projects:
-  CustomThings:
-    path: ""
-...
