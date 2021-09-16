@@ -2,4 +2,4 @@ name: CustomThings
 author: RomainSav
 version: 1.0.0
 api: 4.0.0
-main: hiroshima\Loader
+main: romainsav\customthings\Loader
