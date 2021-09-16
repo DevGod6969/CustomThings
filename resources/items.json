@@ -1,0 +1,76 @@
+[
+    {
+        "type": "helmet",
+        "name": "hiroshima:amethyst_helmet",
+        "texture": "amethyst_helmet",
+        "id": 2100,
+        "max_durability": 3000,
+        "defense_point": 2000,
+        "protection": 4
+    },
+    {
+        "type": "chestplate",
+        "name": "hiroshima:amethyst_chestplate",
+        "texture": "amethyst_chestplate",
+        "id": 2101,
+        "max_durability": 3000,
+        "defense_point": 2000,
+        "protection": 7
+    },
+    {
+        "type": "leggings",
+        "name": "hiroshima:amethyst_leggings",
+        "texture": "amethyst_leggings",
+        "id": 2102,
+        "max_durability": 3000,
+        "defense_point": 2000,
+        "protection": 7
+    },
+    {
+        "type": "boots",
+        "name": "hiroshima:amethyst_boots",
+        "texture": "amethyst_boots",
+        "id": 2103,
+        "max_durability": 3000,
+        "defense_point": 2000,
+        "protection": 7
+    },
+    {
+        "type": "sword",
+        "name": "hiroshima:amethyst_sword",
+        "texture": "amethyst_sword",
+        "id": 2104,
+        "max_durability": 2000,
+        "damage": 8
+    },
+    {
+        "type": "pickaxe",
+        "name": "hiroshima:amethyst_pickaxe",
+        "texture": "amethyst_pickaxe",
+        "id": 2105,
+        "max_durability": 2000,
+        "damage": 6
+    },
+    {
+        "type": "shovel",
+        "name": "hiroshima:amethyst_shovel",
+        "texture": "amethyst_shovel",
+        "id": 2106,
+        "max_durability": 2000,
+        "damage": 5
+    },
+    {
+        "type": "axe",
+        "name": "hiroshima:amethyst_axe",
+        "texture": "amethyst_axe",
+        "id": 2107,
+        "max_durability": 2000,
+        "damage": 7
+    },
+    {
+        "type": "item",
+        "name": "hiroshima:amethyst",
+        "texture": "amethyst",
+        "id": 2108
+    }
+]
