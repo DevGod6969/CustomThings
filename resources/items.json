@@ -1,11 +1,11 @@
 [
     {
         "type": "helmet",
-        "name": "dirt_helmet",
+        "name": "custom:dirt_helmet",
         "texture": "dirt_helmet",
         "id": 2000,
-        "max_durability": 30000000000,
-        "defense_point": 200000000000,
-        "protection": 9999999999
+        "max_durability": 300,
+        "defense_point": 20,
+        "protection": 4
     }
 ]
